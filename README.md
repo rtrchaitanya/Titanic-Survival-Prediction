@@ -10,11 +10,9 @@ In this project, we explore the data and use machine learning techniques to crea
 
 ## Repository Contents
 
-1. **[Titanic_Survival_Prediction.ipynb](Titanic_Survival_Prediction.ipynb):** This Jupyter Notebook is the heart of our project, providing a detailed analysis of the dataset and our predictive model.
+1. **[Titanic_Survival_Prediction.ipynb](https://github.com/rtrchaitanya/Titanic-Survival-Prediction/blob/main/Titanic%20Survival%20Prediction.ipynb):** This Jupyter Notebook is the heart of our project, providing a detailed analysis of the dataset and our predictive model.
 
-2. **[data/](data/):** This directory contains the dataset used for the analysis. The data is sourced from Kaggle and forms the basis of our predictions.
-
-3. **[images/](images/):** A directory containing images, plots, and visualizations created during the analysis, helping to convey our findings and insights.
+2. **[data/](https://github.com/rtrchaitanya/Titanic-Survival-Prediction/blob/main/Titanic%20Tested%20Dataset.csv):** This directory contains the dataset used for the analysis. The data is sourced from Kaggle and forms the basis of our predictions.
 
 ## Getting Started
 
@@ -23,4 +21,4 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Titanic-Survival-Prediction.git
+   git clone https://github.com/rtrchaitanya/Titanic-Survival-Prediction
