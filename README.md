@@ -14,11 +14,10 @@ In this project, we explore the data and use machine learning techniques to crea
 
 2. **[data/](https://github.com/rtrchaitanya/Titanic-Survival-Prediction/blob/main/Titanic%20Tested%20Dataset.csv):** This directory contains the dataset used for the analysis. The data is sourced from Kaggle and forms the basis of our predictions.
 
-## Getting Started
+## Results and Insights
 
-To get started with this project, follow these steps:
+Our analysis culminates in a predictive model that can determine the likelihood of passenger survival during the Titanic tragedy. We encourage you to delve into the Jupyter Notebook to gain a deeper understanding of the features, data preprocessing, and machine learning techniques we employed.
 
-1. Clone this repository to your local machine:
+## Contributing
 
-   ```bash
-   git clone https://github.com/rtrchaitanya/Titanic-Survival-Prediction
+If you'd like to contribute to this project or suggest improvements, please feel free to open an issue or submit a pull request. We welcome collaboration from the community and value diverse perspectives.
