@@ -2,6 +2,12 @@
 
 This GitHub repository contains a comprehensive analysis and prediction model for the Titanic Survival Prediction project. We aim to predict passenger survival during the tragic sinking of the Titanic, utilizing data from Kaggle. Our analysis takes into consideration various factors, including socio-economic status, age, gender, and more, to develop an accurate survival prediction model.
 
+
+
+![Titanic Survival Prediction](https://upload.wikimedia.org/wikipedia/commons/7/76/Titanic_Portside_Diagram.jpg)
+
+
+
 ## Project Overview
 
 The Titanic Survival Prediction project is a data science endeavor that delves into the historical event of the Titanic sinking, one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, resulting in the loss of 1502 out of 2224 passengers and crew. This sensational tragedy had a profound impact on the international community and prompted the implementation of better safety regulations for ships.
